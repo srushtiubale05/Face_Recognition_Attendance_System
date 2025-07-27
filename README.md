@@ -4,6 +4,12 @@ A smart desktop application that automates student attendance using real-time fa
 
 ---
 
+## 📽️ Demo Video
+
+🎥 [Watch the Project in Action on Google Drive](https://drive.google.com/file/d/1otArr5DeJW8vEx5oVcDc3QHkOgCQu_3u/view?usp=sharing) 
+
+---
+
 ## 🧠 Features
 
 - 👨‍🎓 Student registration with image upload and face encoding
@@ -15,6 +21,7 @@ A smart desktop application that automates student attendance using real-time fa
 - 🧠 Encodings stored using `pickle` for faster future access
 
 ---
+
 
 ## 🛠️ Technologies Used
 
